@@ -186,8 +186,6 @@ footer a {
   align-items: center;
   animation-duration: 300ms;
   animation-name: popin;
-  animation-iteration-count: 1;
-  animation-direction: normal;
 }
 
 .projects a {
@@ -200,8 +198,6 @@ footer a {
   margin: 1rem 0;
   animation-duration: 300ms;
   animation-name: popin;
-  animation-iteration-count: 1;
-  animation-direction: normal;
   cursor: pointer;
   color: #fff;
   transition: all 500ms;
