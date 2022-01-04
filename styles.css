@@ -200,7 +200,6 @@ footer a {
   animation-name: popin;
   cursor: pointer;
   color: #fff;
-  transition: all 500ms;
 }
 
 .project-card-header {
