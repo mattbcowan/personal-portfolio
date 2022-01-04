@@ -244,6 +244,10 @@ footer a {
   border-radius: 10rem;
 }
 
+.circle-dark {
+  background-color: #222;
+}
+
 .tech-img {
   height: 100%;
   width: auto;
@@ -288,6 +292,10 @@ footer a {
 
 .no1startup {
   background-color: #6c63ff;
+}
+
+.todolist {
+  background: linear-gradient(119.12deg, #33199e 0%, #791b71 100%);
 }
 
 .faqs-accordian {
