@@ -247,6 +247,10 @@ footer a {
   background-color: #222;
 }
 
+.circle-purple {
+  background-color: #7e5cfa;
+}
+
 .tech-img {
   height: 100%;
   width: auto;
@@ -285,8 +289,8 @@ footer a {
   justify-content: space-evenly;
 }
 
-.pomodoro {
-  background-color: #c0392b;
+.invoice {
+  background-color: #383c54;
 }
 
 .no1startup {
