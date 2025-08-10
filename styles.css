@@ -167,6 +167,10 @@ footer {
   padding: 1rem;
 }
 
+a {
+  color: #aef4ff;
+}
+
 footer a {
   color: #fff;
   font-weight: 700;
